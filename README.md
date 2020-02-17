@@ -1,8 +1,9 @@
-# Formulario para realizar Validacón con JS
+# Formulario clonado desde repositorio de JuanDuran85
+## Formulario para realizar Validación con JS
 
 Formulario para ser validado por los estudiantes mediante un fork y un pull requests, como parte del primer desafio.
 
-## ¿Que deben hacer?
+### ¿Que deben hacer?
 
 * Realizar un fork a este repositorio.
 * Clonar el repositorio en su computador.
